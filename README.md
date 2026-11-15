@@ -18,7 +18,7 @@ Two independent command-line tools solve everyday institute record-keeping tasks
 ## 2. Folder Structure
 
 ```text
-python-files-errors-assessment/
+python-files-errors-assessment1/
 ├── README.md
 ├── expense_tracker.py
 ├── attendance_cleaner.py
