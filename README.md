@@ -425,4 +425,4 @@ The output CSV contains only `Student Name`.
 
 ---
 
-**Author:** YOUR NAME · **GitHub:** https://github.com/muhammadadnancss1-ship-it
+**Author:** Muhammad Adnan · **GitHub:** https://github.com/muhammadadnancss1-ship-it
